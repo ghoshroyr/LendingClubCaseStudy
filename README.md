@@ -25,7 +25,9 @@ In other words, borrowers who default cause the largest amount of loss to the le
 
 The core objective of the excercise is to help the company minimise the credit loss. There are two potential sources of credit loss are:
 1) Applicant likely to repay the loan, such an applicant will bring in profit to the company 
-  with interest rates.** Rejecting such applicants will result in loss of business**.
+  with interest rates.Rejecting such applicants will result in loss of business.
+
+
 2)Applicant not likely to repay the loan, i.e. and will potentially default, then approving the 
   loan may lead to a financial loss* for the company
 
