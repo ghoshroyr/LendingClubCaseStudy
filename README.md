@@ -1,3 +1,6 @@
+
+
+
 # Lending Club Case Study
 
 ## Table of Contents
