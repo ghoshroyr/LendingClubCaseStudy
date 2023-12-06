@@ -1,4 +1,4 @@
-![image](https://github.com/ghoshroyr/LendingClubCaseStudy/assets/82649373/36a84e02-0ad5-41b6-8e10-0e6f5f10164c)# Lending Club Case Study
+# Lending Club Case Study
 
 ## Table of Contents
 * Problem Statement
@@ -89,7 +89,6 @@ Conclusion of Bivariate analysis revealed that for low grade loans higher the DT
 ## Contact
 Created by Riddhiman ghosh Roy - feel free to contact me!
 LinkedIn: www.linkedin.com/in/riddhiman-g-16a069b4
-Github:
-Facebook:Riddhiman Ghosh Roy
+Github: https://github.com/ghoshroyr
 
 
