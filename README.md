@@ -86,12 +86,17 @@ Conclusion of Bivariate analysis revealed that for low grade loans higher the DT
 
 ## Acknowledgements
 1)The project reference course materieals from upGrads curriculum.
+
+
 2)The project references insights and inferences from live presentation given by Akashdeep Makkar.
 
 
 ## Contact
 Created by Riddhiman ghosh Roy - feel free to contact me!
+
 LinkedIn: www.linkedin.com/in/riddhiman-g-16a069b4
+
+
 Github: https://github.com/ghoshroyr
 
 
